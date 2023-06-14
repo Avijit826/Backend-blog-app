@@ -59,13 +59,13 @@
 1. Clone the repo from Terminal
 
 ```bash
-git clone https://github.com/Avijit826/Backend-Authentication-with-JWT.git
+git clone https://github.com/Avijit826/Backend-Blog-App.git
 ```
 
 2. Open project folder
 
 ```bash
-   cd Backend-Authentication-with-JWT
+   cd Backend-Blog-App
 ```
 
 3. Install required packages
