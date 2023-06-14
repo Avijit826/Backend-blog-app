@@ -42,8 +42,7 @@
 
 # 🚀 Live Preview <a name="live-preview"></a>
 
-<iframe src="https://documenter.getpostman.com/view/16303708/2s93sf3BQh" width="100%" height="500">
-</iframe>
+[![Postman Documentation](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/16303708/2s93sf3BQh)
 
 <!-- GETTING STARTED -->
 
