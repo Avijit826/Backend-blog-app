@@ -1,13 +1,13 @@
 <a name="readme-top"></a>
 
 <!-- TITLE -->
-  <h1 align="center">Backend Authentication with JWT</h1>
+  <h1 align="center">Backend Blog App</h1>
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+- [📖 About the Project](#about-project) - [Features](#features)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
 - [🚀 Live Preview](#live-preview)
@@ -21,7 +21,14 @@
 
 # 📖 About Project <a name="about-project"></a>
 
-**Backend Authentication with JWT** is a express-based `backend` only project with login and signup feature.
+**Backend Blog App** is a express-based `backend` only project.
+
+## Features <a name="features"></a>
+
+- Add blog
+- Delete blog
+- Update blog
+- Replace blog
 
 # 🛠 Built With <a name="built-with"></a>
 
@@ -33,10 +40,10 @@
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-
 # 🚀 Live Preview <a name="live-preview"></a>
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/16303708-918faf42-c7bb-4ef7-ba28-37bf5b693e74?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D16303708-918faf42-c7bb-4ef7-ba28-37bf5b693e74%26entityType%3Dcollection%26workspaceId%3D020ca9f2-4641-40be-9a44-f7622bf0e297)
+<iframe src="https://documenter.getpostman.com/view/16303708/2s93sf3BQh" width="100%" height="500">
+</iframe>
 
 <!-- GETTING STARTED -->
 
@@ -67,7 +74,6 @@ git clone https://github.com/Avijit826/Backend-Authentication-with-JWT.git
 ```bash
    npm install
 ```
-
 
 4. Runs the app in development mode.
 
